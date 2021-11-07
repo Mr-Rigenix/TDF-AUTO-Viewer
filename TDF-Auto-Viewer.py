@@ -60,8 +60,8 @@ print B+BL+'#-----------------------------------------#'
 print B+R+'        TAKE LOVE FROM TDF FAMILY'
 print B+BL+'#-----------------------------------------#'
 print B+W+' 1.YOU CAN GET UNLIMITED VIEW FROM THIS TOOL'
-print B+W+'2.THIS TOOL OWNER : TAKE DOWN FIGHTERS'
-print B+W+'3.YOU CAN SELECT THE AMOUNT 1 TO GET 20-25          VIEWS INSTENTLY'
+print B+W+'2.THIS TOOL OWNER :TAKE DOWN FIGHTERS'
+print B+W+'3.YOU CAN SELECT THE AMOUNT 1 TO GET 20-25 VIEWS INSTENTLY'
 print B+W+'4.DONT GIVE BIG AMOUNT BECAUSE IT GIVES VIEWS 20-25 IN EVERY SELECTION'
 print B+W+'5.TAKE LOVE FROM TDF FAMILY '
 print B+BL+'#-----------------------------------------#'
@@ -69,7 +69,7 @@ print B+R+'               \!/WARNING\!/'
 print B+BL+'#-----------------------------------------#'
 ini_url = raw_input (B+Y+"[+] WEBPAGE URL : ")
 print ''
-print B+Y+'[+] VIEWS  Amount => '+B+BL+'|'+B+W,ini_url
+print B+Y+'[+] STARTING => '+B+BL+'|'+B+W,ini_url
 print B+BL+'#-----------------------------------------#'
 def Autoclicker(proxy1):
     try:
